@@ -15,9 +15,9 @@ Here are the Features Implemented:
 
   Demo Reference | My Implementation |
 |----------------|---------------------|
-| ![Demo Hero ](Screenshot/Screenshot(42).png) | ![My Hero](Screenshot/Screenshot(47).png) |
-| ![Demo features Grid ](Screenshot/Screenshot(42).png) | ![My featuresGrid](Screenshot/Screenshot(48).png) |
-  ![Demo pricing ](Screenshot/Screenshot(43).png) | ![My pricing](Screenshot/Screenshot(49).png) |
-|  [Demo Forms ](Screenshot/Screenshot(45).png) | ![My form](Screenshot/Screenshot(49).png)
-[Demo footer](Screenshot/Screenshot(46).png) | ![My footer](Screenshot/Screenshot(50).png) |
+| ![Demo Hero ](Screenshots/Screenshot(42).png) | ![My Hero](Screenshots/Screenshot(47).png) |
+| ![Demo features Grid ](Screenshots/Screenshot(42).png) | ![My featuresGrid](Screenshots/Screenshot(48).png) |
+  ![Demo pricing ](Screenshots/Screenshot(43).png) | ![My pricing](Screenshots/Screenshot(49).png) |
+|  [Demo Forms ](Screenshots/Screenshot(45).png) | ![My form](Screenshots/Screenshot(49).png)
+[Demo footer](Screenshots/Screenshot(46).png) | ![My footer](Screenshots/Screenshot(50).png) |
 | 
